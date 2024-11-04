@@ -1,0 +1,222 @@
+[
+  {
+    "petId": 501,
+    "name": "Бобик",
+    "species": "Собака",
+    "breed": "Вівчарка",
+    "age": 3,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-01-15",
+    "adopted": false,
+    "description": "Дружній пес, любить гратися та гуляти."
+  },
+  {
+    "petId": 502,
+    "name": "Мурка",
+    "species": "Кішка",
+    "breed": "Сіамська",
+    "age": 2,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-02-10",
+    "adopted": true,
+    "description": "Лагідна кішка, любить ласку та увагу."
+  },
+  {
+    "petId": 503,
+    "name": "Рекс",
+    "species": "Собака",
+    "breed": "Лабрадор",
+    "age": 4,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-03-05",
+    "adopted": false,
+    "description": "Енергійний пес, любить бігати та грати з м'ячем."
+  },
+  {
+    "petId": 504,
+    "name": "Сніжок",
+    "species": "Кролик",
+    "breed": "Ангорський",
+    "age": 1,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-03-20",
+    "adopted": false,
+    "description": "Пухнастий кролик, любить моркву та капусту."
+  },
+  {
+    "petId": 505,
+    "name": "Лапка",
+    "species": "Кішка",
+    "breed": "Безпородна",
+    "age": 3,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-04-15",
+    "adopted": true,
+    "description": "Активна та грайлива кішка."
+  },
+  {
+    "petId": 506,
+    "name": "Чарлі",
+    "species": "Собака",
+    "breed": "Бігль",
+    "age": 2,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-05-01",
+    "adopted": false,
+    "description": "Дружелюбний та цікавий пес."
+  },
+  {
+    "petId": 507,
+    "name": "Зірка",
+    "species": "Кішка",
+    "breed": "Британська короткошерста",
+    "age": 5,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-05-20",
+    "adopted": false,
+    "description": "Спокійна та ласкава кішка."
+  },
+  {
+    "petId": 508,
+    "name": "Пірат",
+    "species": "Собака",
+    "breed": "Терьєр",
+    "age": 6,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-06-05",
+    "adopted": true,
+    "description": "Хоробрий пес, любить пригоди."
+  },
+  {
+    "petId": 509,
+    "name": "Маша",
+    "species": "Кішка",
+    "breed": "Персидська",
+    "age": 4,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-06-25",
+    "adopted": false,
+    "description": "Грайлива та цікава кішка."
+  },
+  {
+    "petId": 510,
+    "name": "Білий",
+    "species": "Кролик",
+    "breed": "Новозеландський білий",
+    "age": 2,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-07-10",
+    "adopted": false,
+    "description": "Пухнастий кролик, любить гратися."
+  },
+  {
+    "petId": 511,
+    "name": "Лесик",
+    "species": "Собака",
+    "breed": "Шпіц",
+    "age": 3,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-07-25",
+    "adopted": false,
+    "description": "Веселий та енергійний пес."
+  },
+  {
+    "petId": 512,
+    "name": "Рибка",
+    "species": "Кішка",
+    "breed": "Мейн-кун",
+    "age": 5,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-08-05",
+    "adopted": true,
+    "description": "Велика та мила кішка."
+  },
+  {
+    "petId": 513,
+    "name": "Барсик",
+    "species": "Кішка",
+    "breed": "Сибірська",
+    "age": 4,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-08-20",
+    "adopted": false,
+    "description": "Сильний та незалежний кіт."
+  },
+  {
+    "petId": 514,
+    "name": "Лаки",
+    "species": "Собака",
+    "breed": "Голден ретрівер",
+    "age": 3,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-09-01",
+    "adopted": false,
+    "description": "Любить воду та плавати."
+  },
+  {
+    "petId": 515,
+    "name": "Міла",
+    "species": "Кішка",
+    "breed": "Шотландська висловуха",
+    "age": 2,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-09-15",
+    "adopted": false,
+    "description": "Дуже лагідна кішка."
+  },
+  {
+    "petId": 516,
+    "name": "Бублик",
+    "species": "Кролик",
+    "breed": "Голландський",
+    "age": 1,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-10-01",
+    "adopted": false,
+    "description": "Маленький та веселий кролик."
+  },
+  {
+    "petId": 517,
+    "name": "Сірко",
+    "species": "Собака",
+    "breed": "Безпородний",
+    "age": 5,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-10-20",
+    "adopted": false,
+    "description": "Вірний друг, шукає дім."
+  },
+  {
+    "petId": 518,
+    "name": "Ліза",
+    "species": "Кішка",
+    "breed": "Абіссінська",
+    "age": 3,
+    "gender": "Жіноча",
+    "arrivalDate": "2023-11-05",
+    "adopted": false,
+    "description": "Активна та цікава кішка."
+  },
+  {
+    "petId": 519,
+    "name": "Макс",
+    "species": "Собака",
+    "breed": "Далматин",
+    "age": 4,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-11-20",
+    "adopted": false,
+    "description": "Любить бігати та гратися."
+  },
+  {
+    "petId": 520,
+    "name": "Мурчик",
+    "species": "Кішка",
+    "breed": "Безпородна",
+    "age": 2,
+    "gender": "Чоловіча",
+    "arrivalDate": "2023-12-01",
+    "adopted": false,
+    "description": "Маленький та грайливий кіт."
+  }
+]
