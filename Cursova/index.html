@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Притулок для тварин</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="Shortcut Icon" href="logo.png" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <h1>Притулок для тварин</h1>
+  </header>
+
+  <section class="filters">
+    <input type="text" id="search" placeholder="Введіть ім'я або породу">
+    <select id="species-filter">
+      <option value="">Всі види</option>
+      <option value="Собака">Собака</option>
+      <option value="Кішка">Кішка</option>
+      <option value="Кролик">Кролик</option>
+    </select>
+    <select id="gender-filter">
+      <option value="">Всі статі</option>
+      <option value="Чоловіча">Чоловіча</option>
+      <option value="Жіноча">Жіноча</option>
+    </select>
+    <label>
+      <input type="checkbox" id="adoption-filter"> Показати тільки доступних для усиновлення
+    </label>
+  </section>
+
+  <section id="pet-cards" class="pet-grid">
+  </section>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeModal()">&times;</span>
+      <div id="modal-info">
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Адреса: вулиця Волошина, 54, Ужгород, Закарпатська область, 88000</p>
+    <p>Телефон: 0312 612 193</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
